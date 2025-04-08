@@ -1,5 +1,7 @@
 ## **Object-Oriented Programming (OOP) in Python – Interview Guide**
 
+## Link : https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code
+
 ### **What is OOP?**
 
 Object-Oriented Programming (OOP) is a programming paradigm that uses **objects** and **classes** to structure and manage code efficiently. Python is an  **object-oriented language** , meaning everything in Python is an object.
